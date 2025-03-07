@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @tiago1987souza
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 👋 Olá, eu sou Tiago Souza!  
 
-<!---
-tiago1987souza/tiago1987souza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 👀 Sobre mim  
+Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Sempre em busca de aprender novas ferramentas e melhorar minhas habilidades.  
+
+ 🌱 Atualmente estou aprendendo  
+- [Insira aqui as tecnologias, frameworks ou linguagens que você está estudando]  
+
+ 💞️ Busco colaborar em  
+Projetos open-source, desenvolvimento web/backend, automação e soluções inovadoras. Se você tem um projeto interessante, entre em contato!  
+
+ 📫 Como me encontrar  
+- Email: [seuemail@example.com]  
+- LinkedIn: [seu perfil]  
+- GitHub: [https://github.com/tiago1987souza](https://github.com/tiago1987souza)  
+
+😄 Pronomes  
+Ele/Dele (ou como preferir)  
+
+⚡ Curiosidade  
+[Compartilhe algo interessante sobre você, como um hobby ou fato curioso]  
+
+
+🔧 *Este perfil está sempre em evolução! Sinta-se à vontade para contribuir ou trocar uma ideia!* 🚀
