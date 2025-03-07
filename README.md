@@ -10,15 +10,13 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Sempre 
 Projetos open-source, desenvolvimento web/backend, automação e soluções inovadoras. Se você tem um projeto interessante, entre em contato!  
 
  📫 Como me encontrar  
-- Email: [seuemail@example.com]  
-- LinkedIn: [seu perfil]  
+- Email: [azuos.tiago@gmail.com]  
+- LinkedIn: [https://www.linkedin.com/in/azuostiago]  
 - GitHub: [https://github.com/tiago1987souza](https://github.com/tiago1987souza)  
 
 😄 Pronomes  
-Ele/Dele (ou como preferir)  
+Ele/Dele  
 
-⚡ Curiosidade  
-[Compartilhe algo interessante sobre você, como um hobby ou fato curioso]  
 
 
 🔧 *Este perfil está sempre em evolução! Sinta-se à vontade para contribuir ou trocar uma ideia!* 🚀
